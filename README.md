@@ -10,4 +10,4 @@ Note that this collection is using PSR4 namespacing.
 2. The old Roman Numeral Converter
 3. Returning Prime Factors of an Integer
 4. Add/Subtract a string of numbers. A string Calculator
-5. Interfaces and Dependancy Injection
+5. Interfaces and Dependancy Injection following PSR4 recomemdations
