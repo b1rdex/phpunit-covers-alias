@@ -1,3 +1,5 @@
+.DS_Store
 /vendor
 examples.sublime-project
+examples.sublime-workspace
 /public/*
