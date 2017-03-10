@@ -12,4 +12,7 @@ Note that this collection is using PSR4 namespacing.
 4. Add/Subtract a string of numbers. A string Calculator
 5. Interfaces and Dependancy Injection following PSR4 recomemdations
 
+###Composer
+Composer is used throughout this package. Have a look at the composer.json file to see how it is being used/config
+
 PHPSpec testing to follow
