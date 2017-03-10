@@ -116,10 +116,11 @@
 	"buffers":
 	[
 		{
-			"file": "Readme.md",
+			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 7,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -173,6 +174,7 @@
 	],
 	"file_history":
 	[
+		"/Users/davidclare/Code/exercises/.gitignore",
 		"/Users/davidclare/Code/exercises/src/RomanNumeralsConverter.php",
 		"/Users/davidclare/Code/exercises/tests/RomanNumeralsConverterTest.php",
 		"/Users/davidclare/Code/exercises/phpunit.xml",
@@ -299,8 +301,7 @@
 		"/Users/davidclare/Code/proj.co.uk/resources/views/auth/register.blade.php",
 		"/Users/davidclare/Code/proj.co.uk/database/migrations/2017_01_28_111917_create_sites_table.php",
 		"/Users/davidclare/Code/proj.co.uk/database/migrations/2017_01_29_092000_create_item_tags_table.php",
-		"/Users/davidclare/Code/proj.co.uk/database/migrations/2017_01_29_091653_create_histories_table.php",
-		"/Users/davidclare/Code/proj.co.uk/database/migrations/2017_01_29_091639_create_tags_table.php"
+		"/Users/davidclare/Code/proj.co.uk/database/migrations/2017_01_29_091653_create_histories_table.php"
 	],
 	"find":
 	{
@@ -351,24 +352,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Readme.md",
-					"semi_transient": true,
+					"file": ".gitignore",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 7,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								7,
+								7
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+							"_anf_new": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

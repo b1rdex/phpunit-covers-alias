@@ -5,7 +5,7 @@ use Acme\RomanNumeralsConverter;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @covers Email
+ *
  */
 class RomanNumeralsConverterTest extends TestCase
 {
