@@ -18,7 +18,7 @@ class EmailNewsLetterTest extends TestCase
     protected function tearDown(){}
 
     /** @test  */
-    public function init_email_with_smartmailer_client(){
+    public function email_with_smartmailer_client(){
 
     	$this->mailer->setMailClient( new Acme\interfaces\smartmailer );
 
@@ -26,7 +26,7 @@ class EmailNewsLetterTest extends TestCase
     }
 
     /** @test  */
-    public function init_email_with_mailchimp_client(){
+    public function email_with_mailchimp_client(){
 
     	$this->mailer->setMailClient( new Acme\interfaces\mailchimp );
 
