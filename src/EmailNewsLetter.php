@@ -1,12 +1,18 @@
 <?php
 namespace Acme;
 
+use Acme\interfaces\EmailClientsInterface;
+
+/**
+ * This class is an example of Coding to an Interface and Dependancy Injection 
+ */
+
 class EmailNewsLetter {
 
 	protected $mailClient;
 	protected $mailClientName;
 
-	public function setMailClient(interfaces\EmailClientsInterface $client){
+	public function setMailClient(EmailClientsInterface $client){
 		
 		$this->mailClient = $client;
 

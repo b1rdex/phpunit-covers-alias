@@ -28,7 +28,7 @@ class RomanNumeralsConverter {
 	 */
 	public function convert($number)
 	{
-		$this->guardAgainstInvalidNumber($number);
+		$this->catchInvalidNumber($number);
 
 		$solution = '';
 
@@ -47,7 +47,7 @@ class RomanNumeralsConverter {
 	/**
 	 * @param $number
 	 */
-	private function guardAgainstInvalidNumber($number)
+	private function catchInvalidNumber($number)
 	{
 
 		if ($number <= 0 || !is_numeric($number))

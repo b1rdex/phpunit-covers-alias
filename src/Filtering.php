@@ -23,15 +23,13 @@ class Filtering{
 
 	/**
 	 * This returns an array of authors
-	 * @param  [type] $books [description]
-	 * @return [type]        [description]
+	 * @param  array or objects $books 
+	 * @return array 
 	 */
 	public function get_authors_as_array($books){
 		
 		$authors = array_map(function($book){
-
 			return $book->author;
-
 		}, $books);
 
 		return $authors;
@@ -42,7 +40,7 @@ class Filtering{
 		$authors = [];
 		
 		if (version_compare(phpversion(), '7.0', '>=')) {
-			$authors = array_column($books, 'author'); //Does not reliably work with an array of objects in versions
+			$authors = array_column($books, 'author'); // array_column Does not reliably work with an array of objects in versions
 			return $authors;
 		}
 		

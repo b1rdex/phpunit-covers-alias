@@ -5,8 +5,9 @@ use Acme\RomanNumeralsConverter;
 use PHPUnit\Framework\TestCase;
 
 /**
- *
+ * Test convertion from aribic number (1,2,3) to roman numerials (I,II,III)
  */
+
 class RomanNumeralsConverterTest extends TestCase
 {
 	public $converter;
