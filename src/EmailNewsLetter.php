@@ -10,7 +10,7 @@ class EmailNewsLetter {
 		
 		$this->mailClient = $client;
 
-		$this->mailClientName = $this->mailClient->clientName('smartmailer');
+		$this->mailClientName = $this->mailClient->clientName();
 
 	}
 

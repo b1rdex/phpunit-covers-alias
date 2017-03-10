@@ -26,8 +26,13 @@ class EmailNewsLetterTest extends TestCase
     }
 
     /** @test  */
-    public function send_email_to(){
+    public function init_email_with_mailchimp_client(){
 
+    	$this->mailer->setMailClient( new Acme\interfaces\mailchimp );
+
+    	$this->assertTrue( $this->mailer->__get('mailClientName') == 'mailchimp');
     }
+
     
+
 }
