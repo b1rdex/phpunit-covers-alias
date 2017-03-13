@@ -1,0 +1,805 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"mailer"
+			],
+			[
+				"for",
+				"foreachFilter"
+			],
+			[
+				"test",
+				"testValues"
+			],
+			[
+				"auth",
+				"authors"
+			],
+			[
+				"aut",
+				"authors"
+			],
+			[
+				"array_f",
+				"array_filter"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pub",
+				"published"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"getUs",
+				"getUser"
+			],
+			[
+				"cre",
+				"createRoles"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"perm",
+				"permission"
+			],
+			[
+				"ass",
+				"assignRole"
+			],
+			[
+				"per",
+				"permission"
+			],
+			[
+				"permissi",
+				"permissions"
+			],
+			[
+				"role",
+				"roleName"
+			],
+			[
+				"ra",
+				"randStr"
+			],
+			[
+				"test_create_a_",
+				"test_create_a_permission"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"f",
+				"form-group"
+			],
+			[
+				"ro",
+				"role_user"
+			],
+			[
+				"drp",
+				"dropdown-menu"
+			],
+			[
+				"pa",
+				"password_confirmation"
+			],
+			[
+				"flash",
+				"flash_message"
+			],
+			[
+				"Tag",
+				"TagController"
+			],
+			[
+				"drop",
+				"dropdown-toggle"
+			],
+			[
+				"dr",
+				"dropdown-item"
+			],
+			[
+				"nav",
+				"nav-link"
+			],
+			[
+				"uns",
+				"unsigned"
+			],
+			[
+				"random",
+				"randomString"
+			],
+			[
+				"site",
+				"site_id"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"Site",
+				"SiteTags"
+			],
+			[
+				"text",
+				"text1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/RomanNumeralsConverter.php",
+			"settings":
+			{
+				"buffer_size": 803,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Tax.php",
+			"settings":
+			{
+				"buffer_size": 262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/TaxTest.php",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Sublime PHPUnit: Run All Tests"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 62.0,
+		"history":
+		[
+			"command install"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidclare/Code/exercises",
+		"/Users/davidclare/Code/exercises/tests"
+	],
+	"file_history":
+	[
+		"/Users/davidclare/Code/proj.co.uk/composer.json",
+		"/Users/davidclare/Code/exercises/src/interfaces/EmailCommon.php",
+		"/Users/davidclare/Code/exercises/src/interfaces/mailchimp.php",
+		"/Users/davidclare/Code/exercises/src/EmailClientsInterface.php",
+		"/Users/davidclare/Code/exercises/EmailInterface.php",
+		"/Users/davidclare/Code/exercises/tests/FilteringTest.php",
+		"/Users/davidclare/Code/exercises/src/BookCollection.php",
+		"/Users/davidclare/Code/exercises/src/Filtering.php",
+		"/Users/davidclare/Code/exercises/tests/RomanNumeralsConverterTest.php",
+		"/Users/davidclare/Code/exercises/.gitignore",
+		"/Users/davidclare/Code/exercises/src/RomanNumeralsConverter.php",
+		"/Users/davidclare/Code/exercises/phpunit.xml",
+		"/Users/davidclare/Code/exercises/composer.json",
+		"/Users/davidclare/Code/acme.co.uk/app/HasRoles.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Permission.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Role.php",
+		"/Users/davidclare/Code/acme.co.uk/app/User.php",
+		"/Users/davidclare/Code/acme.co.uk/database/seeds/DatabaseSeeder.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/user/index.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/database/seeds/PermissionSeeder.php",
+		"/Users/davidclare/Code/acme.co.uk/database/migrations/2017_03_08_122739_create_roles_table.php",
+		"/Users/davidclare/Code/acme.co.uk/config/app.php",
+		"/Users/davidclare/Code/acme.co.uk/config/custom.php",
+		"/Users/davidclare/Code/acme.co.uk/tests/Feature/ExampleTest.php",
+		"/Users/davidclare/Code/acme.co.uk/composer.json",
+		"/Users/davidclare/Code/acme.co.ok/app/Providers/AppServiceProvider.php",
+		"/Users/davidclare/Code/bouncer_acme.co.uk/app/Providers/AppServiceProvider.php",
+		"/Users/davidclare/Code/_custom_auth_acme.co.uk/app/User.php",
+		"/Users/davidclare/Code/acme.co.uk/database/migrations/2017_03_07_105318_create_bouncer_tables.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Controllers/UserController.php",
+		"/Users/davidclare/Code/acme.co.uk/vendor/silber/bouncer/migrations/create_bouncer_tables.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/user/show.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/user/create.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/layouts/app.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/layouts/errors.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Controllers/HomeController.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/home.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/acme/Test.php",
+		"/Users/davidclare/Code/acme.co.uk/routes/web.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Providers/AppServiceProvider.php",
+		"/Users/davidclare/Code/acme.co.uk/.env",
+		"/Users/davidclare/Code/acme.co.uk/database/migrations/2017_03_07_085441_CreateRolesTables.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/session/create.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Controllers/RegisterController.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/layouts/nav.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/database/seeds/UsersTableSeeder.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/mydetails/show.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Controllers/MyDetailsController.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Controllers/SessionController.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/mydeatils/show.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/mydeatils/show.blade.pjhp",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Middleware/VerifyCsrfToken.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Http/Controllers/DashboardController.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/layouts/basic.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/pages/dashboard.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/layouts/nav.php",
+		"/Users/davidclare/Code/acme.co.uk/app/Session.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/register/create.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/welcome.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/layouts/errors.php",
+		"/Users/davidclare/Code/acme.co.uk/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+		"/Users/davidclare/Code/acme.co.uk/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/Users/davidclare/Code/acme.co.uk/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/davidclare/Code/acme.co.uk/resources/views/session/register.blade.php",
+		"/Users/davidclare/Code/acme.co.uk/readme.md",
+		"/Users/davidclare/Code/proj.co.uk/resources/assets/sass/custom.scss",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/user/index.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/item/index.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/config/app.php",
+		"/Users/davidclare/Code/proj.co.uk/app/User.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/user/show.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/user/edit.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/UserController.php",
+		"/Users/davidclare/Code/proj.co.uk/app/ACME/helperFunctions.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/layouts/nav.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/layouts/basicCore.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/ItemController.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/ItemTagController.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/SiteController.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/TagController.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/tag/index.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/show.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/app/ACME/DataTable.php",
+		"/Users/davidclare/Code/proj.co.uk/database/seeds/UsersTableSeeder.php",
+		"/Users/davidclare/Code/proj.co.uk/database/seeds/DatabaseSeeder.php",
+		"/Users/davidclare/Code/proj.co.uk/database/factories/ModelFactory.php",
+		"/Users/davidclare/Code/proj.co.uk/tests/Unit/UserTest.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/HomeController.php",
+		"/Users/davidclare/Code/proj.co.uk/routes/web.php",
+		"/Users/davidclare/Code/proj.co.uk/tests/Feature/ExampleTest.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Providers/AppServiceProvider.php",
+		"/Users/davidclare/Code/proj.co.uk/tests/DuskTestCase.php",
+		"/Users/davidclare/Code/proj.co.uk/vendor/symfony/http-foundation/Request.php",
+		"/Users/davidclare/Code/proj.co.uk/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/davidclare/Code/proj.co.uk/vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php",
+		"/Users/davidclare/Code/proj.co.uk/vendor/phpunit/php-token-stream/src/Token.php",
+		"/Users/davidclare/Code/proj.co.uk/routes/api.php",
+		"/Users/davidclare/Code/proj.co.uk/vendor/laravel/framework/src/Illuminate/Cache/RateLimiter.php",
+		"/Users/davidclare/Code/proj.co.uk/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/davidclare/Code/li3.co.uk/app/config/bootstrap.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/tag/create.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/config/custom.php",
+		"/Users/davidclare/Code/proj.co.uk/app/ACME/Flash.php",
+		"/Users/davidclare/Code/proj.co.uk/public/css/custom.css",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/item/create.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/database/seeds/MakeSitesSeeder.php",
+		"/Users/davidclare/Code/proj.co.uk/database/seeds/MakeTagsSeeder.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Item.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Tag.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/Auth/LoginController.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/Auth/ResetPasswordController.php",
+		"/Users/davidclare/Code/proj.co.uk/app/Http/Controllers/Auth/RegisterController.php",
+		"/Users/davidclare/Code/proj.co.uk/database/seeds/MakeItemsSeeder.php",
+		"/Users/davidclare/Code/proj.co.uk/database/migrations/2017_01_29_091616_create_items_table.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/item/show.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/pages/dashboard.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/app/ItemTag.php",
+		"/Users/davidclare/Code/proj.co.uk/.env",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/tag/show.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/config/session.php",
+		"/Users/davidclare/Code/proj.co.uk/readme.md",
+		"/Users/davidclare/Code/proj.co.uk/.gitignore",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/item/partials/uploads.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/item/partials/links.blade.php",
+		"/Users/davidclare/Code/proj.co.uk/resources/views/item/edit.blade.php",
+		"/Users/davidclare/Library/Application Support/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/Users/davidclare/Code/proj.co.uk/public/js/tether.min.js",
+		"/Users/davidclare/Code/proj.co.uk/vendor/twbs/bootstrap/composer.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/Users/davidclare/Code/acme.co.uk",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BookCollections",
+			"@can directive",
+			"gat",
+			"@foreach",
+			"blade",
+			">\n",
+			"Logout",
+			"updateExistingPivot",
+			"tag",
+			"Item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/RomanNumeralsConverter.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 803,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/Tax.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								185,
+								185
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/TaxTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"has",
+				"app/HasRoles.php"
+			],
+			[
+				"support/collection.php",
+				"vendor/laravel/framework/src/Illuminate/Support/Collection.php"
+			],
+			[
+				"user",
+				"app/User.php"
+			],
+			[
+				"role",
+				"app/Role.php"
+			],
+			[
+				"perm",
+				"app/Permission.php"
+			],
+			[
+				"config/",
+				"config/app.php"
+			],
+			[
+				"index.b",
+				"resources/views/user/index.blade.php"
+			],
+			[
+				"reg",
+				"app/Http/Controllers/RegisterController.php"
+			],
+			[
+				"nav",
+				"resources/views/layouts/nav.php"
+			],
+			[
+				"session",
+				"app/Http/Controllers/SessionController.php"
+			],
+			[
+				"err",
+				"resources/views/layouts/errors.php"
+			],
+			[
+				"error",
+				"resources/views/layouts/errors.php"
+			],
+			[
+				"welcom",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"auth/a",
+				"vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php"
+			],
+			[
+				"facaades/",
+				"vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php"
+			],
+			[
+				"view/we",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"migrat/",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"u",
+				"app/User.php"
+			],
+			[
+				"user/inde",
+				"resources/views/user/index.blade.php"
+			],
+			[
+				"userc",
+				"app/Http/Controllers/UserController.php"
+			],
+			[
+				"reque",
+				"vendor/symfony/http-foundation/Request.php"
+			],
+			[
+				"thro",
+				"vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php"
+			],
+			[
+				"token",
+				"vendor/phpunit/php-token-stream/src/Token.php"
+			],
+			[
+				"rate",
+				"vendor/laravel/framework/src/Illuminate/Cache/RateLimiter.php"
+			],
+			[
+				"thrott",
+				"vendor/laravel/framework/src/Illuminate/Routing/Middleware/ThrottleRequests.php"
+			],
+			[
+				"tag/i",
+				"resources/views/tag/index.blade.php"
+			],
+			[
+				"hel",
+				"app/ACME/helperFunctions.php"
+			],
+			[
+				"tag/",
+				"resources/views/tag/create.blade.php"
+			],
+			[
+				"seed/",
+				"database/seeds/MakeSitesSeeder.php"
+			],
+			[
+				"item/c",
+				"resources/views/item/create.blade.php"
+			],
+			[
+				"seeds/",
+				"database/seeds/MakeSitesSeeder.php"
+			],
+			[
+				"item",
+				"app/Item.php"
+			],
+			[
+				"tag",
+				"app/Tag.php"
+			],
+			[
+				"tagco",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"item.",
+				"app/Item.php"
+			],
+			[
+				"view/item/c",
+				"resources/views/item/create.blade.php"
+			],
+			[
+				"itemc",
+				"app/Http/Controllers/ItemController.php"
+			],
+			[
+				"help",
+				"app/ACME/helperFunctions.php"
+			],
+			[
+				"homec",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"routes/",
+				"routes/web.php"
+			],
+			[
+				"view/item/",
+				"resources/views/item/create.blade.php"
+			],
+			[
+				"item/in",
+				"resources/views/item/index.blade.php"
+			],
+			[
+				"tagc",
+				"app/Http/Controllers/TagController.php"
+			],
+			[
+				"ite",
+				"app/Item.php"
+			],
+			[
+				"helper",
+				"app/ACME/helperFunctions.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"dash",
+				"resources/views/pages/dashboard.blade.php"
+			],
+			[
+				"rw",
+				"routes/web.php"
+			],
+			[
+				"tag/s",
+				"resources/views/tag/show.blade.php"
+			],
+			[
+				"item/",
+				"resources/views/item/index.blade.php"
+			],
+			[
+				"icrea",
+				"resources/views/item/create.blade.php"
+			],
+			[
+				"sho",
+				"resources/views/item/show.blade.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"rwe",
+				"routes/web.php"
+			],
+			[
+				"l/na",
+				"resources/views/layouts/nav.blade.php"
+			],
+			[
+				"r/we",
+				"routes/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Code/proj.co.uk/proj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 828.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
