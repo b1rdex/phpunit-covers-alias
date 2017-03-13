@@ -1,8 +1,25 @@
 <?php
 namespace Acme;
 
+/**
+ * Calculate UK HMRC VAT based on 
+ * https://www.gov.uk/vat-businesses/inclusive-exclusive-prices
+ *
+ * https://www.gov.uk/government/publications/vat-notice-700-the-vat-guide/vat-notice-700-the-vat-guide
+ *
+ * See Section 17.5
+ * 
+ */
+
 class Tax {
 
+	/**
+	 * Returns the VAT-inclusive price 
+	 * @param  integer $price   [description]
+	 * @param  integer $rate    [description]
+	 * @param  array   $options [description]
+	 * @return integer          
+	 */
 	public static function inc(	$price = 0, 
 								$rate = 0, 
 								$options = ['calculation_method' => 'lines']
@@ -19,6 +36,13 @@ class Tax {
 
 	}
 
+	/**
+	 * Returns the VAT-exclusive prices
+	 * @param  integer $price   [description]
+	 * @param  integer $rate    [description]
+	 * @param  array   $options [description]
+	 * @return [type]           [description]
+	 */
 	public static function ex($price = 0, $rate = 0, $options = ['calculation_method' => 'lines']){
 
 		$tax = new self($options);
@@ -32,14 +56,14 @@ class Tax {
 
 	}
 
-	protected $precision;
+	protected $calculation_method;
 
 	public function __construct( $options = ['calculation_method' => 'lines'] ){
 
 		$this->calculation_method = $options['calculation_method'];
 
 	}
-
+	
 	public function generate_percent_value($rate){
 		return ( $rate/100 ) + 1;
 	}

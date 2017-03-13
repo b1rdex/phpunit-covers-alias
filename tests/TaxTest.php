@@ -68,7 +68,7 @@ class TaxTest extends TestCase
 
     	$pence = (new Tax(['calculation_method' => 'lines']))->convert_pence_to_pounds(8636);
 
-    	$this->assertEquals( $pence, 86);
+    	$this->assertEquals( $pence, 86.5);
     }
 
 }
