@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"cal",
+				"calculation_method"
+			],
+			[
+				"dec",
+				"decimal_places"
+			],
+			[
 				"ma",
 				"mailer"
 			],
@@ -159,7 +167,7 @@
 			"file": "src/Tax.php",
 			"settings":
 			{
-				"buffer_size": 262,
+				"buffer_size": 2051,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -168,7 +176,7 @@
 			"file": "tests/TaxTest.php",
 			"settings":
 			{
-				"buffer_size": 306,
+				"buffer_size": 1719,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -371,6 +379,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			");\n",
 			"BookCollections",
 			"@can directive",
 			"gat",
@@ -398,7 +407,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -436,44 +445,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 262,
+						"buffer_size": 2051,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								185,
-								185
-							]
-						],
-						"settings":
-						{
-							"_anf_new": "",
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "tests/TaxTest.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 306,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								294,
-								294
+								1545,
+								1545
 							]
 						],
 						"settings":
@@ -483,10 +463,46 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 934.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "tests/TaxTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1708,
+								1708
+							]
+						],
+						"settings":
+						{
+							"_anf_new": "",
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1089.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -509,11 +525,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.507191003154,
 			1.0
 		],
 		"rows":
