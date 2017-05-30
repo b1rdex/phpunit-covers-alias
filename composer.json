@@ -1,21 +1,10 @@
 {
     "require": {
-        "phpspec/phpspec": "^3.2",
-        "phpunit/phpunit": "^5.7",
-        "components/jquery": "^3.1"
+        "phpunit/phpunit": "^5.7"
     },
     "autoload": {
         "psr-4": {
             "Acme\\": "src/"
         }
-    },
-    "config": {
-        "preferred-install": "dist",
-        "sort-packages": true
-    },
-    "scripts": {
-        "post-update-cmd": [
-            "cp -R vendor/components/jquery/ public/jquery/"
-        ]
     }
 }
